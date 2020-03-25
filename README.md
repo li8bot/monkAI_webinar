@@ -17,17 +17,17 @@ Created by : Abhishek Kumar, Akash Deep Singh
 
 ## Contents
 
-- Introduction
- * Brief about Computer Vision
- * Applications of Computer Vision
- * Deep Learning applied to Computer Vision
- * Who are we and what is MonkAI
+#### Introduction
+* Brief about Computer Vision
+* Applications of Computer Vision
+* Deep Learning applied to Computer Vision
+* Who are we and what is MonkAI
 
-- Getting Started with MonkAI
- * Dog Vs Cat Classifier Using Pytorch Backend
-  * Train a Computer Vision Model
-  * Evaluate on Validation dataset 
-  * Test on custom images
+#### Getting Started with MonkAI
+* Dog Vs Cat Classifier Using Pytorch Backend
+ - Train a Computer Vision Model
+ - Evaluate on Validation dataset 
+ - Test on custom images
 
 - Elemental Features of MonkAI
  * Experiment Summaries
