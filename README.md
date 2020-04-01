@@ -1,11 +1,7 @@
 # Pneumonia Classification from Chest X-Ray
-### Building Computer Vision algorithms
-----
-##### Powered by Deep Learning algorithms
-
 ### Getting started with transfer learning for image classification
-
-Create powerful applications for the real world with MonkAI
+----
+#### Create powerful applications for the real world with MonkAI
 
 #### What you’ll learn
  - Build an Image Classification application
