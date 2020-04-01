@@ -6,7 +6,9 @@
 ### Getting started with transfer learning for image classification
 
 Create powerful applications for the real world with MonkAI
-Created by : Abhishek Kumar, Akash Deep Singh
+Created by : 
+Abhishek Kumar -- 
+Akash Deep Singh -- 
 
 #### What you’ll learn
  - Build an Image Classification application
@@ -17,14 +19,21 @@ Created by : Abhishek Kumar, Akash Deep Singh
 - Basic Python programming
 - Exposure to Deep Learning terminologies
 
-In the recent pandemic breakout of COVID-19 virus, the cases of respiratory lung diseases have seen immense increase. With researchers, doctors and caretakers working 24x7 across the world, we realise the call to the technology world to make the process of identifying and catering to affected patients.
+In the recent pandemic breakout of COVID-19 virus, cases of respiratory lung diseases have seen an immense increase. With researchers, doctors and caretakers working 24x7 across the world, we realise the call to the technology world to make the process of identifying and catering to affected patients more efficient and effective.
 
-Deep learning methods have been shown to outperform previous state-of-the-art machine learning techniques in the domain of medical image analysis. Applications of Computer Vision in analysing Histopathology slides, CT scans, MRIs and X-Rays is expediting the process of disease discovery.
+Deep learning methods have been shown to outperform Human visual intelligence in several areas of medical image analysis. Applications of Computer Vision in analysing Histopathology slides, CT scans, MRIs and X-Rays is expediting the process of intial disease discovery inside pathologies.
 
-In this webinar, we will learn to build an image classification system that takes as input a Chest X-Ray image and predicts the chances of the patient having pneumonia.
+In this webinar, we will learn to build an image classification system that takes as input a Chest X-Ray image and predicts the chances of the patient having Pneumonia.
 Along the way we shall understand the basics of Transfer Learning based Image Classification and learn about Deep Learning workflows using our open-source toolkit MonkAI.
 
+To learn more about MonkAI checkout :
+- [Website](https://monkai.org/)
+- [Github](https://github.com/Tessellate-Imaging/monk_v1)
+- [MonkAI GUI](https://github.com/Tessellate-Imaging/Monk_Gui)
+
 Featuring speakers of this meetup are Abhishek Kumar and Akash Deep Singh from Tessellate Imaging, India. Tessellate Imaging helps businesses across the globe in setting up their Computer Vision infrastructure.
+[Tessellate Imaging](https://tessellateimaging.com)
+
 
 ## About the authors
 
