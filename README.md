@@ -1,7 +1,7 @@
 # Pneumonia Classification from Chest X-Ray
 ### Getting started with transfer learning for image classification
 ----
-#### Create powerful applications for the real world with MonkAI
+##### Create powerful applications for the real world with MonkAI
 
 #### What you’ll learn
  - Build an Image Classification application
