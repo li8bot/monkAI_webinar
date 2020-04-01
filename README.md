@@ -28,8 +28,8 @@ To learn more about MonkAI checkout :
 - [Github](https://github.com/Tessellate-Imaging/monk_v1)
 - [MonkAI GUI](https://github.com/Tessellate-Imaging/Monk_Gui)
 
-Featuring speakers of this meetup are Abhishek Kumar and Akash Deep Singh from Tessellate Imaging, India. Tessellate Imaging helps businesses across the globe in setting up their Computer Vision infrastructure.
-[Tessellate Imaging](https://tessellateimaging.com)
+Featuring speakers of this meetup are Abhishek Kumar and Akash Deep Singh from Tessellate Imaging, India. [Tessellate Imaging](https://tessellateimaging.com) helps businesses across the globe in setting up their Computer Vision infrastructure.
+
 
 
 ## About the authors
