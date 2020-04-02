@@ -6,6 +6,10 @@
 ![Demo](covid.gif)
 - Inference demo for Covid Classification of Chext X-Ray
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](covid.gif)  |  ![](covid.gif)
+
 #### What you’ll learn
  - Build an Image Classification application
  - Use Transfer Learning with MonkAI
