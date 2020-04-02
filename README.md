@@ -3,6 +3,9 @@
 ----
 ##### Create powerful applications for the real world with MonkAI
 
+![Demo](covid.gif)
+Inference demo for Covid Classification of Chext X-Ray
+
 #### What you’ll learn
  - Build an Image Classification application
  - Use Transfer Learning with MonkAI
