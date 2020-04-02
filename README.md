@@ -3,12 +3,9 @@
 ----
 ##### Create powerful applications for the real world with MonkAI
 
-![Demo](covid.gif)
-- Inference demo for Covid Classification of Chext X-Ray
-
-Solarized dark             |  Solarized Ocean
+COVID-Classification       |  Pneumonia-Classification
 :-------------------------:|:-------------------------:
-![](covid.gif)  |  ![](covid.gif)
+![](covid.gif)             |  ![](pneumonia.gif)
 
 #### What you’ll learn
  - Build an Image Classification application
