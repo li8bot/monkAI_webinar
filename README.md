@@ -3,6 +3,8 @@
 ----
 ##### Create powerful applications for the real world with MonkAI
 
+## [LINK TO WEBINAR](https://www.youtube.com/watch?v=BvB7Ga_l6cI)
+
 COVID-Classification       |  Pneumonia-Classification
 :-------------------------:|:-------------------------:
 ![](covid.gif)             |  ![](pneumonia.gif)
