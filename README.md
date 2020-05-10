@@ -1,29 +1,28 @@
-# Pneumonia Classification from Chest X-Ray
-### Getting started with Transfer Learning for Image Classification
+# Image Search & Retrieval with MonkAI
+### Getting started with Feature extraction for Image Recommendation
 ----
 ##### Create powerful applications for the real world with MonkAI
 
-## [LINK TO WEBINAR](https://www.youtube.com/watch?v=BvB7Ga_l6cI)
+## [LINK TO WEBINAR -- TBD]
 
-COVID-Classification       |  Pneumonia-Classification
-:-------------------------:|:-------------------------:
-![](covid.gif)             |  ![](pneumonia.gif)
+## Sample Image for Image Recommendation
 
 #### What you’ll learn
- - Build an Image Classification application
- - Use Transfer Learning with MonkAI
+ - Build an Image Retrieval application using Deep Neural Networks
+ - Use MonkAI to carry out forward pass and generate image feature embeddings
+ - Distance based Image similarity estimation and retrieval
  - Understand Deep Learning development workflow
 
 #### Pre-requisites
 - Basic Python programming
 - Exposure to Deep Learning terminologies
 
-In the recent pandemic breakout of the COVID-19 virus, cases of respiratory lung diseases have seen an immense increase. With researchers, doctors, and caretakers working 24x7 across the world, we realize the call to the technology world to make the process of identifying and catering to affected patients more efficient and effective.
+All Visual decision making processes require storage and retrieval of image data. Image matching and search has been a key task in the Computer Vision domain.
 
-Deep learning methods have been shown to outperform human visual intelligence in several areas of medical image analysis. Applications of Computer Vision in analyzing Histopathology slides, CT scans, MRIs and X-Rays is expediting the process of initial disease discovery inside pathologies.
+Deep learning methods have been shown to outperform human visual intelligence in several areas of Visual search and recommendations. Applications of Computer Vision in imagery panning across a broad spectrum of imaging modalities has helped automate several key processes. This enhances the services of any business by providing targeted suggestions to users.
 
-In this webinar, we will learn to build an image classification system that takes as input a Chest X-Ray image and predicts the chances of the patient having Pneumonia.
-Along the way, we shall understand the basics of Transfer Learning based Image Classification and learn about Deep Learning workflows using our open-source toolkit MonkAI.
+In this webinar, we will learn how to build an Image Retrieval system that takes as input an RGB image and returns the closest matching images as output.
+Along the way, we shall understand the basics of Deep Learning based Image Retrieval and learn about Computer Vision workflows using our open-source toolkit MonkAI.
 
 To learn more about MonkAI checkout :
 - [Website](https://monkai.org/)
