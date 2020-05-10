@@ -31,8 +31,6 @@ To learn more about MonkAI checkout :
 
 Featuring speakers of this meetup are Abhishek Kumar and Akash Deep Singh from Tessellate Imaging, India. [Tessellate Imaging](https://tessellateimaging.com) helps businesses across the globe set up their Computer Vision and Deep Learning infrastructure.
 
-
-hello
 ## About the authors
 
 ### Abhishek Kumar Annamraju -- [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-annamraju/)
