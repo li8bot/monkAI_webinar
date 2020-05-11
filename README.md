@@ -1,39 +1,32 @@
-# Pneumonia Classification from Chest X-Ray
-### Getting started with Transfer Learning for Image Classification
+# Setup a Deep Learning workbench for Computer Vision
+### Getting started with open challenges from Kaggle, Codalab, Hackerearth
 ----
-##### Create powerful applications for the real world with MonkAI
-
-## [LINK TO WEBINAR](https://www.youtube.com/watch?v=BvB7Ga_l6cI)
-
-COVID-Classification       |  Pneumonia-Classification
-:-------------------------:|:-------------------------:
-![](covid.gif)             |  ![](pneumonia.gif)
+##### Create powerful research for the real world with MonkAI
 
 #### What you’ll learn
- - Build an Image Classification application
- - Use Transfer Learning with MonkAI
- - Understand Deep Learning development workflow
+ - What constitutes a Deep Learners daily routine
+ - Setting up your own Deep Learning toolkit and processes
+ - Understand how to make quick prototypes using MonkAI
+ - Core features of resume, compare, copy and much more...
 
 #### Pre-requisites
 - Basic Python programming
 - Exposure to Deep Learning terminologies
 
-In the recent pandemic breakout of the COVID-19 virus, cases of respiratory lung diseases have seen an immense increase. With researchers, doctors, and caretakers working 24x7 across the world, we realize the call to the technology world to make the process of identifying and catering to affected patients more efficient and effective.
-
-Deep learning methods have been shown to outperform human visual intelligence in several areas of medical image analysis. Applications of Computer Vision in analyzing Histopathology slides, CT scans, MRIs and X-Rays is expediting the process of initial disease discovery inside pathologies.
-
-In this webinar, we will learn to build an image classification system that takes as input a Chest X-Ray image and predicts the chances of the patient having Pneumonia.
-Along the way, we shall understand the basics of Transfer Learning based Image Classification and learn about Deep Learning workflows using our open-source toolkit MonkAI.
-
 To learn more about MonkAI checkout :
 - [Website](https://monkai.org/)
-- [Github](https://github.com/Tessellate-Imaging/monk_v1)
-- [MonkAI GUI](https://github.com/Tessellate-Imaging/Monk_Gui)
+- [Github](https://github.com/Tessellate-Imaging/)
+
+Several key decision making processes today require Visual Intelligence. The innate ability to percieve, process and decide based on visual inputs is one of the key definitions of intelligence. Mimicking this intelligence into silicon based machines has been a task pursued by researchers since decades.
+
+With an explosion in commercial applications in the domain of Computer Vision, Deep Learning algorithms have become a go to strategy whenever a new research problem is brought to light.
+
+In this webinar we will go over how researchers and developers can tackle open-ended Computer Vision challenges using our Deep Learning toolkit, MonkAI. We'll go over some of the core offerings of MonkAI, understand how to handle and explore datasets, learn how to fine-tune prototypes and compare experiments to finally churn out a good ranking. Along the way we'll look at some of the expert mode features available inside MonkAI.
+
+Viewers can follow along on any of the available Kaggle challenges. We'll setup our workflow while applying Transfer Learning to the problem of Image Classification.
 
 Featuring speakers of this meetup are Abhishek Kumar and Akash Deep Singh from Tessellate Imaging, India. [Tessellate Imaging](https://tessellateimaging.com) helps businesses across the globe set up their Computer Vision and Deep Learning infrastructure.
 
-
-hello
 ## About the authors
 
 ### Abhishek Kumar Annamraju -- [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-annamraju/)
