@@ -25,7 +25,7 @@ In this webinar we will go over how researchers and developers can tackle open-e
 
 Viewers can follow along on any of the available Kaggle challenges. We'll setup our workflow while applying Transfer Learning to the problem of Image Classification.
 
-**Caution for dreamers : Building SOTA in a day is impossible. Please keep your expectations to beating the baseline.
+#### Caution for dreamers : Building SOTA in a day is impossible. Please keep your expectations to beating the baseline.
 
 Featuring speakers of this meetup are Abhishek Kumar and Akash Deep Singh from Tessellate Imaging, India. [Tessellate Imaging](https://tessellateimaging.com) helps businesses across the globe set up their Computer Vision and Deep Learning infrastructure.
 
