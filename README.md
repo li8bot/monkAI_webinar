@@ -4,10 +4,10 @@
 ##### Create powerful research for the real world with MonkAI
 
 #### What you’ll learn
- - What constitutes a Deep Learners daily routine
+ - What constitutes a Deep Learning Engineer's daily routine
  - Setting up your own Deep Learning toolkit and processes
  - Understand how to make quick prototypes using MonkAI
- - Core features of resume, compare, copy and much more...
+ - Core features from MonkAI like resume, compare, copy and much more...
 
 #### Pre-requisites
 - Basic Python programming
@@ -21,7 +21,7 @@ Several key decision making processes today require Visual Intelligence. The inn
 
 With an explosion in commercial applications in the domain of Computer Vision, Deep Learning algorithms have become a go to strategy whenever a new research problem is brought to light.
 
-In this webinar we will go over how researchers and developers can tackle open-ended Computer Vision challenges using our Deep Learning toolkit, MonkAI. We'll go over some of the core offerings of MonkAI, understand how to handle and explore datasets, learn how to fine-tune prototypes and compare experiments to finally churn out great metrics. Along the way we'll look at some of the expert mode features available inside MonkAI.
+In this webinar we will go over how researchers and developers can tackle open-ended Computer Vision challenges using our Deep Learning toolkit, MonkAI. We'll go over some of the core offerings of MonkAI, understand how to handle and explore datasets, learn how to fine-tune prototypes and compare experiments to finally generate insightful analysis from these experiments. Along the way we'll look at some of the expert mode features available inside MonkAI.
 
 Viewers can follow along on any of the available Kaggle challenges. We'll setup our workflow while applying Transfer Learning to the problem of Image Classification.
 
