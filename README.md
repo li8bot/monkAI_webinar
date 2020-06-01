@@ -1,31 +1,40 @@
-# Setup a Deep Learning workbench for Computer Vision
-### Getting started with open challenges from Kaggle, Codalab, Hackerearth
+# Digital Image Processing
+### Understanding Image Data
 ----
 ##### Create powerful research for the real world with MonkAI
 
 #### What you’ll learn
- - What constitutes a Deep Learning Engineer's daily routine
- - Setting up your own Deep Learning toolkit and processes
- - Understand how to make quick prototypes using MonkAI
- - Core features from MonkAI like resume, compare, copy and much more...
+##### 1. Images in the Spatial Domain
+ - Pixels and Windows
+ - Image Values and Basic Statistics
+ - Spatial and Temporal Data Measures
+ - Step-Edges
+##### 2. Images in the Frequency Domain
+ - Discrete Fourier Transform
+ - Inverse Discrete Fourier Transform
+ - The Complex Plane
+ - Image Data in the Frequency Domain
+ - Phase-Congruency Model for Image Features
+##### 3. Colour and Colour Images
+ - Colour Definitions
+ - Colour Perception, Visual Deficiencies, and Grey Levels
+ - Colour Representations
 
 #### Pre-requisites
 - Basic Python programming
-- Exposure to Deep Learning terminologies
+- Basic understanding of Linear algebra and Calculus
 
 To learn more about MonkAI checkout :
 - [Website](https://monkai.org/)
 - [Github](https://github.com/Tessellate-Imaging/)
 
+Images are highly chaotic sources of signals which a minor change in perspective causing major changes in data. Plagued with noise during capture, human visual processing is still a mystery and yet too basic for us. 
+
 Several key decision making processes today require Visual Intelligence. The innate ability to percieve, process and decide based on visual inputs is one of the key definitions of intelligence. Mimicking this intelligence into silicon based machines has been a task pursued by researchers since decades.
 
-With an explosion in commercial applications in the domain of Computer Vision, Deep Learning algorithms have become a go to strategy whenever a new research problem is brought to light.
+Deep Learning applications has seen a tremedous rise in its applications to Computer Vision. As a precursor to Deep Learning, having a fundamental understanding of Image Processing will help you gain necessary skills to build the right solutions.
 
-In this webinar we will go over how researchers and developers can tackle open-ended Computer Vision challenges using our Deep Learning toolkit, MonkAI. We'll go over some of the core offerings of MonkAI, understand how to handle and explore datasets, learn how to fine-tune prototypes and compare experiments to finally generate insightful analysis from these experiments. Along the way we'll look at some of the expert mode features available inside MonkAI.
-
-Viewers can follow along on any of the available Kaggle challenges. We'll setup our workflow while applying Transfer Learning to the problem of Image Classification.
-
-#### Caution for dreamers : Building SOTA in a day is impossible. Please keep your expectations to beating the baseline.
+In this webinar we will go over how the fundamentals of Digital Image Processing, take a look at how Image data is stored and processed within computational systems and briefly look at Color representations in digital images.
 
 Featuring speakers of this meetup are Abhishek Kumar and Akash Deep Singh from Tessellate Imaging, India. [Tessellate Imaging](https://tessellateimaging.com) helps businesses across the globe set up their Computer Vision and Deep Learning infrastructure.
 
