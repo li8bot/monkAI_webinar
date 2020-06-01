@@ -24,10 +24,6 @@
 - Basic Python programming
 - Basic understanding of Linear algebra and Calculus
 
-To learn more about MonkAI checkout :
-- [Website](https://monkai.org/)
-- [Github](https://github.com/Tessellate-Imaging/)
-
 Images are highly chaotic sources of signals which a minor change in perspective causing major changes in data. Plagued with noise during capture, human visual processing is still a mystery and yet too basic for us. 
 
 Several key decision making processes today require Visual Intelligence. The innate ability to percieve, process and decide based on visual inputs is one of the key definitions of intelligence. Mimicking this intelligence into silicon based machines has been a task pursued by researchers since decades.
@@ -37,6 +33,10 @@ Deep Learning applications has seen a tremedous rise in its applications to Comp
 In this webinar we will go over how the fundamentals of Digital Image Processing, take a look at how Image data is stored and processed within computational systems and briefly look at Color representations in digital images.
 
 Featuring speakers of this meetup are Abhishek Kumar and Akash Deep Singh from Tessellate Imaging, India. [Tessellate Imaging](https://tessellateimaging.com) helps businesses across the globe set up their Computer Vision and Deep Learning infrastructure.
+
+To learn more about MonkAI checkout :
+- [Website](https://monkai.org/)
+- [Github](https://github.com/Tessellate-Imaging/)
 
 ## About the authors
 
